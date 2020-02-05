@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ProyectoFicheros\ProyectoFicheros\bin\Debug\ProyectoFicheros.exe.config
+C:\Users\User\source\repos\ProyectoFicheros\ProyectoFicheros\bin\Debug\ProyectoFicheros.exe
+C:\Users\User\source\repos\ProyectoFicheros\ProyectoFicheros\bin\Debug\ProyectoFicheros.pdb
+C:\Users\User\source\repos\ProyectoFicheros\ProyectoFicheros\obj\Debug\ProyectoFicheros.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProyectoFicheros\ProyectoFicheros\obj\Debug\ProyectoFicheros.Form1.resources
+C:\Users\User\source\repos\ProyectoFicheros\ProyectoFicheros\obj\Debug\ProyectoFicheros.Properties.Resources.resources
+C:\Users\User\source\repos\ProyectoFicheros\ProyectoFicheros\obj\Debug\ProyectoFicheros.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProyectoFicheros\ProyectoFicheros\obj\Debug\ProyectoFicheros.exe
+C:\Users\User\source\repos\ProyectoFicheros\ProyectoFicheros\obj\Debug\ProyectoFicheros.pdb
